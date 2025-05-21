@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @himanshu-iqsetters
+/src/backend/database.py      @himanshu-iqsetters
+/src/backend/routers/auth.py  @himanshu-iqsetters
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @himanshu-iqsetters
